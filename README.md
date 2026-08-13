@@ -32,11 +32,3 @@ No "Modo Nave", você pode explorar o vácuo espacial com controles completos de
 * **[Three.js](https://threejs.org/) (v0.160.0):** Biblioteca principal para renderização 3D, instanciamento de malhas e cálculos matemáticos[cite: 1].
 * **[Tailwind CSS](https://tailwindcss.com/):** Utilizado via CDN para estilização fluida e moderna da interface de usuário (HUD e menus)[cite: 1].
 * **GLSL (Shaders Customizados):** Para efeitos volumétricos, auroras, atmosfera e física de luz avançada[cite: 1].
-
-## 🚀 Como Executar
-
-O projeto foi construído para ser "plug-and-play". Não é necessário um processo complexo de *build*.
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/helios-system.git](https://github.com/seu-usuario/helios-system.git)
